@@ -1,0 +1,16 @@
+﻿#my_camera{
+    width:200px;
+    display:none;
+}
+#btnUpload1{
+    display:none;
+}
+#btnUpload2{
+    display:none;
+}
+#btn_Carga1:disabled{
+
+}
+#btn_Carga2:disabled{
+
+}
